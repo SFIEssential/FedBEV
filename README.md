@@ -17,7 +17,7 @@
 If you feel our research and data useful, welcome to cite:
 
 ```
-@article{yan2023bev,
+@article{yan2022bev,
   title={Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning},
   author={Yan, Sen and Fang, Hongyuan and Li, Ji and Ward, Tomas and O'Connor, Noel E and Liu, Mingming},
   journal={arXiv preprint arXiv:2203.14764},
