@@ -3,7 +3,7 @@
 <p align="center"> Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning </p>
 
 <p align="center">
-  <a href="#Data Source">Data Source</a> | <a href="#Vehicle Model Output">Vehicle Model Output</a> | <a href="#Processed Dataset">Processed Dataset</a> | <a href="https://arxiv.org/abs/2203.14764">Paper</a>
+  <a href="#Data%20Source">Data Source</a> | <a href="#Vehicle%20Model%20Output">Vehicle Model Output</a> | <a href="#Processed%20Dataset">Processed Dataset</a> | <a href="https://arxiv.org/abs/2203.14764">Paper</a>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -24,7 +24,6 @@ If you feel our research and data useful, welcome to cite:
   year={2022}
 }
 ```
-
 
 # Data Source
 
