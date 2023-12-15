@@ -3,31 +3,36 @@
 <p align="center"> Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning </p>
 
 <p align="center">
-  <a href="#Data-Source">Data Source</a> | <a href="#Vehicle-Model-Output">Vehicle Model Output</a> | <a href="#Processed-Dataset">Processed Dataset</a> | <a href="https://arxiv.org/abs/2203.14764">Paper</a>
+  <a href="#Data-Source">Data Source</a> | <a href="#Vehicle-Model-Output">Vehicle Model Output</a> | <a href="#Processed-Dataset">Processed Dataset</a> | <a href="http://dx.doi.org/10.1109/TTE.2023.3343106">Paper</a>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-*Yan, S., Fang, H., Li, J., Ward, T., O'Connor, N. E., & Liu, M. (2022). Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning. arXiv preprint arXiv:2203.14764.*
+*S. Yan, H. Fang, J. Li, T. Ward, N. O’Connor and M. Liu, "Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning," in IEEE Transactions on Transportation Electrification, doi: 10.1109/TTE.2023.3343106.*
 
-- <a href="https://arxiv.org/abs/2203.14764"> arXiv </a>
+- <a href="http://dx.doi.org/10.1109/TTE.2023.3343106"> arXiv </a>
 
 If you feel our research and data useful, welcome to cite:
 
 ```
-@article{yan2022bev,
-  title={Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning},
-  author={Yan, Sen and Fang, Hongyuan and Li, Ji and Ward, Tomas and O'Connor, Noel E and Liu, Mingming},
-  journal={arXiv preprint arXiv:2203.14764},
-  year={2022}
+@article{Yan2023,
+  title = {Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning},
+  ISSN = {2372-2088},
+  url = {http://dx.doi.org/10.1109/TTE.2023.3343106},
+  DOI = {10.1109/tte.2023.3343106},
+  journal = {IEEE Transactions on Transportation Electrification},
+  publisher = {Institute of Electrical and Electronics Engineers (IEEE)},
+  author = {Yan,  Sen and Fang,  Hongyuan and Li,  Ji and Ward,  Tomas and O’Connor,  Noel and Liu,  Mingming},
+  year = {2023},
+  pages = {1–1}
 }
 ```
 
 # Data Source
 
-The dataset used in our work is sourced from <a href="https://github.com/gsoh/VED"> VED dataset </a>, a real-world dataset collected in Michigan, USA. We filtered 10 trips from VED dataset with a duration longer than 1,800 seconds, and stored them in <a href="./data source"> data source </a> folder.
+The dataset used in our work is sourced from <a href="https://github.com/gsoh/VED"> VED dataset </a>, a real-world dataset collected in Michigan, USA. We filtered 10 trips from the VED dataset with a duration longer than 1,800 seconds and stored them in <a href="./data source"> data source </a> folder.
 
 # Vehicle Model Output
 
