@@ -12,7 +12,8 @@
 
 *S. Yan, H. Fang, J. Li, T. Ward, N. O’Connor and M. Liu, "Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning," in IEEE Transactions on Transportation Electrification, doi: 10.1109/TTE.2023.3343106.*
 
-- <a href="http://dx.doi.org/10.1109/TTE.2023.3343106"> arXiv </a>
+- <a href="http://dx.doi.org/10.1109/TTE.2023.3343106"> IEEE Xplore </a>
+- <a href="https://arxiv.org/abs/2312.07371"> arXiv </a>
 
 If you feel our research and data useful, welcome to cite:
 
